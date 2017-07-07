@@ -12,6 +12,8 @@ Hardware
 The module uses a [WEMOS] [D1 mini] ESP8266 development board and a [ds18b20] 
 1-Wire temperature sensor connected to pin D4.
 
+![Module](imgs/module.jpg) ![Complete](imgs/complete.jpg)
+
 The WEMOS can be bought from 
 WEMOS' official [AliExpress shop](https://wemoscc.aliexpress.com/store/1331105).
 There are also clones available from AliExpress and other places such as eBay.
